@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "antenna height": 1.540000, "lateral rms": 0.008100, "name": "Point 1", "projected mean": "-79.2951080291 43.8806948317 164.546198585", "rms": "0.00774395744579 0.00244295235607 0.0103141895939", "sample count": 636.000000, "solution status": "FIX" }, "geometry": { "type": "Point", "coordinates": [ -79.29510802909904, 43.880694831713818, 164.546198584905397 ] } },
+{ "type": "Feature", "properties": { "antenna height": 1.540000, "lateral rms": 0.004600, "name": "Point 2", "projected mean": "-79.2951080299 43.8806948166 164.548646167", "rms": "0.00388457932365 0.00251473983515 0.010959096475", "sample count": 600.000000, "solution status": "FIX" }, "geometry": { "type": "Point", "coordinates": [ -79.295108029871713, 43.880694816648315, 164.548646166666771 ] } },
+{ "type": "Feature", "properties": { "antenna height": 1.540000, "lateral rms": 0.007400, "name": "Point 3", "projected mean": "-79.2951080415 43.8806948185 164.544154927", "rms": "0.00613940710621 0.00406905960069 0.0122926984924", "sample count": 619.000000, "solution status": "FIX" }, "geometry": { "type": "Point", "coordinates": [ -79.295108041521829, 43.880694818489523, 164.544154927302174 ] } }
+]
+}
