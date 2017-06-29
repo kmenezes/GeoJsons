@@ -1,6 +1,6 @@
 # GeoJsons
 
-Some tests I've been done with the EMLID Reach RTK units on Pixhawk.
+Some tests I've done with the EMLID Reach RTK units on Pixhawk.
 
 
 # Confirmation of RTK corrections injection + Rtk float lock
