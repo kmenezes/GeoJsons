@@ -10,4 +10,4 @@ Some tests I've been done with the EMLID Reach RTK units on Pixhawk.
 ![](https://github.com/kmenezes/GeoJsons/blob/master/Outdoor-test-1.jpg)
 
 # Set-up 2
-![](https://github.com/kmenezes/GeoJsons/blob/master/Outdoor-test.png)
+![](https://github.com/kmenezes/GeoJsons/blob/master/Outdoor-test.jpg)
