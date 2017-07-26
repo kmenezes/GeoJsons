@@ -7,7 +7,7 @@ Some tests I've done with the EMLID Reach RTK units on Pixhawk.
 ![](https://github.com/kmenezes/GeoJsons/blob/master/MP-RTK-float.png)
 
 # Set-up 1
-![](https://github.com/kmenezes/GeoJsons/blob/master/Outdoor-test-1.jpg)
+![](https://github.com/kmenezes/GeoJsons/blob/master/2017-07-26 11.11.21.jpg)
 
 # Set-up 2
-![](https://github.com/kmenezes/GeoJsons/blob/master/Outdoor-test.jpg)
+![](https://github.com/kmenezes/GeoJsons/blob/master/2017-07-26 10.59.52.jpg)
